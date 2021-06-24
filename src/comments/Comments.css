@@ -1,0 +1,42 @@
+.comments__wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.comments__img-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.comments__img {
+    margin-right: 10px;
+}
+
+.comments__rate-wrapper {
+    display: flex;
+}
+
+.comments__text {
+    font-size: 14px;
+}
+
+.comments__paper {
+    margin-bottom: 50px;
+}
+
+.green {
+    color: green;
+}
+
+.yellow {
+    color: orange;
+}
+
+.red {
+    color: red;
+}
+
+.d-none {
+    display: none;
+}

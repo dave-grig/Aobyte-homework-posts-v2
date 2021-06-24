@@ -1,0 +1,16 @@
+.post__img-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.post__img {
+    margin-right: 10px;
+}
+
+.post__text {
+    font-size: 14px;
+}
+
+.post__paper {
+    margin-bottom: 50px;
+}

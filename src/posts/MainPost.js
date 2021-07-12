@@ -32,7 +32,7 @@ const useStyles = makeStyles((theme) => ({
     },
   }));
 
-export const Post1 = ({img, name, text, currentPostIndex}) => {
+export const MainPost = ({img, name, text, currentPostIndex}) => {
     const [comments, setComments] = useState([]);
     const [authorName, setAuthorName] = useState("");
     const [commentText, setCommentText] = useState("");

@@ -1,0 +1,9 @@
+.posts-pagination {
+    display: flex;
+    justify-content: center;
+}
+
+.posts-page {
+    flex: 1 0 0;
+    margin: 0 5px;
+}

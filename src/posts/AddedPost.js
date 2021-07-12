@@ -14,7 +14,7 @@ import { commentsData } from '../comments/commentsData'
 import { Grid } from '@material-ui/core'
 import RemoveIcon from '@material-ui/icons/Remove';
 
-export const Post2 = ({img, name, text, handleRemove, currentPostIndex, listId}) => {
+export const AddedPost = ({img, name, text, handleRemove, currentPostIndex, listId}) => {
     
 
     return (
